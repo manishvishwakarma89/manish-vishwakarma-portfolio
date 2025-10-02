@@ -68,7 +68,6 @@ const portfolioItems: PortfolioItem[] = [
     details: [
       'MCA (Master of Computer Application) - First Division from Bharti Vidyapeeth Deemed University, Pune (2010-2013)',
       'BCA (Bachelor of Computer Application) - First Division from CCS University, Meerut, India (2007-2010)',
-      'Certificate IV (Software Development & Website Development) from Canberra Institute of Technology, Australia (2004-2006)',
       'XIIth Board - Dhanpat Mal Virmani Senior Secondary School, Roop Nagar (2004)',
       'Xth CBSE Board - S.M.Jain Senior Secondary School, Kamla Nagar (2001)'
     ]
