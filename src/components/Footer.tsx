@@ -41,7 +41,7 @@ const Footer = () => {
                 className="bg-white/10 border-white/20 hover:bg-white/20 hover:border-white/40 text-hero-foreground"
                 asChild
               >
-                <a href="#" target="_blank" rel="noopener noreferrer">
+                <a href="https://github.com/kumama88" target="_blank" rel="noopener noreferrer">
                   <Github className="w-5 h-5" />
                 </a>
               </Button>
