@@ -137,9 +137,10 @@ const Footer = () => {
             <div className="flex items-center gap-2 text-hero-foreground/80">
               <span>Copyright ©, {currentYear}</span>
               <Heart className="w-4 h-4 text-red-400 fill-current" />
-              <span>Design and developed by Manish Kumar Vishwakarma</span>
             </div>
-            
+            <div>
+            <span>Design and developed by Manish Kumar Vishwakarma</span>
+            </div>
             <Button
               variant="ghost"
               onClick={scrollToTop}
