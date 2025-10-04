@@ -85,7 +85,7 @@ const About = () => {
                 size="xl"
                 className="bg-white/10 border-white/30 text-hero-foreground hover:bg-white/20 hover:border-white/50"
               >
-                <Download className="w-5 h-5" />
+                <Download className="w-5 h-5" href="https://drive.google.com/file/d/1BqbROyJFDiUMl9xar7llEo7WfUc8U0Uc/view?usp=drive_link" />
                 Download Resume
               </Button>
             </div>
