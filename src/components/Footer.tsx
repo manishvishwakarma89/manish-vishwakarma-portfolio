@@ -135,7 +135,7 @@ const Footer = () => {
         <div className="container mx-auto px-4 py-6">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <div className="flex items-center gap-2 text-hero-foreground/80">
-              <span>© {currentYear} AWS Portfolio </span>
+              <span>©copyright, {currentYear} design and developed by Manish Kumar Vishwakarma </span>
               <Heart className="w-4 h-4 text-red-400 fill-current" />
               
             </div>
