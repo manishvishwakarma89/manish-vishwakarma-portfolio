@@ -30,7 +30,7 @@ const Footer = () => {
                 className="bg-white/10 border-white/20 hover:bg-white/20 hover:border-white/40 text-hero-foreground"
                 asChild
               >
-                <a href="www.linkedin.com/in/manish-kumar-21232155" target="_blank" rel="noopener noreferrer">
+                <a href="linkedin.com/in/manish-kumar-21232155" target="_blank" rel="noopener noreferrer">
                   <Linkedin className="w-5 h-5" />
                 </a>
               </Button>
