@@ -12,7 +12,7 @@ const About = () => {
       const resumeUrl = '/resume.pdf';
       const link = document.createElement('a');
       link.href = resumeUrl;
-      link.download = 'Manish Kumar_Cloud_Resume.pdf';
+      link.download = 'Manish Kumar-Resume.pdf';
       document.body.appendChild(link);
       link.click();
       document.body.removeChild(link);
