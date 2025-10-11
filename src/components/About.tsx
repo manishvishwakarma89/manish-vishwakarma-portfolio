@@ -49,3 +49,6 @@ const About = () => {
     </Button>
   );
 };
+
+
+export default About;
