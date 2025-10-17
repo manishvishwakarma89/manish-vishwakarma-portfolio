@@ -37,21 +37,10 @@ const portfolioItems: PortfolioItem[] = [
     details: [
      'Frontend:React.js, Next.js, React Native, Redux, Material UI, HTML5, CSS3, TypeScript',
       'Backend: NodeJs,NextJs, Python, Django, Flask, PostgreSQL, Firebase, REST APIs',
-      'DevOps & Cloud Concepts: Docker, AWS, GitHub Actions, CI/CD Jenkins'
-    ]
-  },
-  {
-    id: 'aws-tools',
-    title: 'AWS Tools & Services',
-    image: awsTools,
-    description: 'Comprehensive AWS ecosystem expertise',
-    details: [
-      'Core AWS: EC2, RDS, VPC, Lambda, CloudFormation, ECS/EKS, CloudFront',
-      'Security: IAM, KMS, Cognito, WAF, Shield',
-      'Networking: VPC, Subnets, Route53, NAT, IGW, Transit Gateway, Load Balancers',
-      'Monitoring: CloudWatch, CloudTrail',
-      'IaC: CloudFormation, Terraform',
-      'CI/CD: CodeDeploy, CodePipeline, CodeBuild'
+      'DevOps & Cloud Concepts: Docker, AWS, GitHub Actions, CI/CD Jenkins',
+      'Creative & Marketing: Digital Marketing, Branding, SEO, Content Strategy, Graphic Design',
+      'Creative & Marketing: Digital Marketing, Branding, SEO, Content Strategy, Graphic Design',
+      'Tools & Platforms: VS Code, Notion, Slack, Bitbucket, Postman, Git'
     ]
   },
   {
@@ -80,7 +69,7 @@ const portfolioItems: PortfolioItem[] = [
   },
   {
     id: 'projects',
-    title: 'Projects & Practices',
+    title: 'Professional Projects ',
     image: awsArchitecture,
     description: 'Real-world implementations and achievements',
     details: [
