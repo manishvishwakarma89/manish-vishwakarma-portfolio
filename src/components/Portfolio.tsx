@@ -39,7 +39,7 @@ const portfolioItems: PortfolioItem[] = [
       'Backend: NodeJs,NextJs, Python, Django, Flask, PostgreSQL, Firebase, REST APIs',
       'DevOps & Cloud Concepts: Docker, AWS, GitHub Actions, CI/CD Jenkins',
       'Creative & Marketing: Digital Marketing, Branding, SEO, Content Strategy, Graphic Design',
-      'Creative & Marketing: Digital Marketing, Branding, SEO, Content Strategy, Graphic Design',
+      'Design Tools: Figma, Adobe XD, Canva, Illustrator',
       'Tools & Platforms: VS Code, Notion, Slack, Bitbucket, Postman, Git'
     ]
   },
@@ -51,8 +51,8 @@ const portfolioItems: PortfolioItem[] = [
     details: [
       'MCA (Master of Computer Application) - First Division from Bharti Vidyapeeth Deemed University, Pune (2010-2013)',
       'BCA (Bachelor of Computer Application) - First Division from CCS University, Meerut, India (2007-2010)',
-      'XIIth Board - Dhanpat Mal Virmani Senior Secondary School, Roop Nagar (2004)',
-      'Xth CBSE Board - S.M.Jain Senior Secondary School, Kamla Nagar (2001)'
+      'XIIth/Intermediate CBSE Board - Dhanpat Mal Virmani Senior Secondary School, Roop Nagar (2004)',
+      'Metric/Xth CBSE Board - S.M.Jain Senior Secondary School, Kamla Nagar (2001)'
     ]
   },
   {
@@ -76,6 +76,8 @@ const portfolioItems: PortfolioItem[] = [
       'Web Hosting Availability in AWS: Designed and deployed a two-tiered web application with high availability using EC2, Auto Scaling, RDS, S3, Route53, CloudFront, ELB, ALB. Achieved 99.9% uptime in simulated traffic loads.',
       'Serverless Application with AWS Lambda: Built serverless web game application using Lambda, S3 bucket, API Gateway, DynamoDB, CloudWatch.',
       'Secure VPC Architecture: Designed and deployed a three-tiered web application with high latency separation and distinct Public/Private networks for frontend and backend applications.'
+      'E-Pharmacy Platform (Healthcare Domain): Architected a microservices-based system for managing prescriptions, patient data, and refills , Improved app response time by 30% through caching and query optimization & Improved app response time by 30% through caching and query optimization',
+      'Digital Parliament Platform (Digital Sansad): Built live session modules for Lok Sabha & Rajya Sabha with real-time updates, Reduced page load by 35% via SSR optimization, supporting 1M+ users/month & Reduced page load by 35% via SSR optimization, supporting 1M+ users/month.'
     ]
   }
 ];
