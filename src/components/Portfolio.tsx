@@ -35,10 +35,9 @@ const portfolioItems: PortfolioItem[] = [
     image: skillsGrid,
     description: 'Core competencies and technical expertise',
     details: [
-     'Frontend:
-      'AWS Services: EC2, RDS, VPC, Lambda, CloudFormation, ECS/EKS, CloudFront',
-      'Networking Concepts: Security Groups, Subnets, NAT, Direct Connect, Internet Gateway, Transit Gateway, VPN, Route Tables',
-      'Security and IAM: Roles, Access Keys, Policies, Least Privileges'
+     'Frontend:React.js, Next.js, React Native, Redux, Material UI, HTML5, CSS3, TypeScript',
+      'Backend: NodeJs,NextJs, Python, Django, Flask, PostgreSQL, Firebase, REST APIs',
+      'DevOps & Cloud Concepts: Docker, AWS, GitHub Actions, CI/CD Jenkins'
     ]
   },
   {
