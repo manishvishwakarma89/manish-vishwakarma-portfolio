@@ -26,9 +26,7 @@ const portfolioItems: PortfolioItem[] = [
     image: careerObjective,
     description: 'My professional goals and aspirations',
     details: [
-      'Seeking to apply my skills in AWS services, networking, and infrastructure automation to deliver business-focused solutions.',
-      'Passionate about cloud architecture and DevOps practices.',
-      'Committed to continuous learning and staying updated with latest cloud technologies.'
+      'Innovative and versatile full-stack engineer with 6+ years of experience delivering end-to-end web, mobile, and AI-driven solutions for global clients. Expert in React.js, Next.js, React Native, and NestJS, combined with creative strengths in UI/UX design, digital branding, and marketing strategy. Passionate about transforming business ideas into visually engaging, high-performance applications that scale seamlessly across devices and platforms..'
     ]
   },
   {
@@ -37,13 +35,10 @@ const portfolioItems: PortfolioItem[] = [
     image: skillsGrid,
     description: 'Core competencies and technical expertise',
     details: [
+     'Frontend:
       'AWS Services: EC2, RDS, VPC, Lambda, CloudFormation, ECS/EKS, CloudFront',
       'Networking Concepts: Security Groups, Subnets, NAT, Direct Connect, Internet Gateway, Transit Gateway, VPN, Route Tables',
-      'Security and IAM: Roles, Access Keys, Policies, Least Privileges',
-      'High Availability: Multi-AZ RDS, Multi-region, Load Balancers (ALB), Auto Scaling Groups',
-      'Billing and Cost Optimization: Pricing Models, Cost Explorer, Saving Plans, Budget Handling',
-      'Collaboration: Work with stakeholders, business managers, developers and ops teams',
-      'Documentation: Write technical documentation and deployment code'
+      'Security and IAM: Roles, Access Keys, Policies, Least Privileges'
     ]
   },
   {
