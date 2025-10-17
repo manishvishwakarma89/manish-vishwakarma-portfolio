@@ -78,7 +78,7 @@ const portfolioItems: PortfolioItem[] = [
     ]
   }
 ];
-
+},
 const Portfolio = () => {
   const [selectedItem, setSelectedItem] = useState<PortfolioItem | null>(null);
 
