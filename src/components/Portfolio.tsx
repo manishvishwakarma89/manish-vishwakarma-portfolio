@@ -73,11 +73,8 @@ const portfolioItems: PortfolioItem[] = [
     image: awsArchitecture,
     description: 'Real-world implementations and achievements',
     details: [
-      'Web Hosting Availability in AWS: Designed and deployed a two-tiered web application with high availability using EC2, Auto Scaling, RDS, S3, Route53, CloudFront, ELB, ALB. Achieved 99.9% uptime in simulated traffic loads.',
-      'Serverless Application with AWS Lambda: Built serverless web game application using Lambda, S3 bucket, API Gateway, DynamoDB, CloudWatch.',
-      'Secure VPC Architecture: Designed and deployed a three-tiered web application with high latency separation and distinct Public/Private networks for frontend and backend applications.'
       'E-Pharmacy Platform (Healthcare Domain): Architected a microservices-based system for managing prescriptions, patient data, and refills , Improved app response time by 30% through caching and query optimization & Improved app response time by 30% through caching and query optimization',
-      'Digital Parliament Platform (Digital Sansad): Built live session modules for Lok Sabha & Rajya Sabha with real-time updates, Reduced page load by 35% via SSR optimization, supporting 1M+ users/month & Reduced page load by 35% via SSR optimization, supporting 1M+ users/month.'
+      'Digital Parliament Platform (Digital Sansad): Built live session modules for Lok Sabha & Rajya Sabha with real-time updates, Reduced page load by 35% via SSR optimization, supporting 1M+ users & Reduced page load by 35% via SSR optimization, supporting 1M+ users.'
     ]
   }
 ];
